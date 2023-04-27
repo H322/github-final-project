@@ -5,4 +5,4 @@ Input:<br />
 &nbsp;&nbsp;&nbsp;&nbsp; t, time period in years<br />
 &nbsp;&nbsp;&nbsp;&nbsp; r, annual rate of interest<br />
 Output<br />
-  &nbsp;&nbsp;&nbsp;&nbsp; simple interest = p\*t*r<br />
+&nbsp;&nbsp;&nbsp;&nbsp; simple interest = p\*t*r<br />
